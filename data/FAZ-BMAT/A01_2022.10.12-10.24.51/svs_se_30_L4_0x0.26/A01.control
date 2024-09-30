@@ -1,0 +1,22 @@
+$LCMODL
+OWNER='MR Research Center, Radiology, Univ of Pittsburgh'
+TITLE= 'BODY^FAZ-BMAT A01 svs_se_30_L4 TR/TE=3000/30msec NS=8' 
+SRCRAW= '/raidgyrus2/users/moonc/GYRUS2/OngoingResearch/CSIProcessing/data/FAZ-BMAT/A01_2022.10.12-10.24.51/svs_se_30_L4_0x0.26/UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101210510755591502536' 
+SAVDIR= '/raidgyrus2/users/moonc/GYRUS2/OngoingResearch/CSIProcessing/data/FAZ-BMAT/A01_2022.10.12-10.24.51/svs_se_30_L4_0x0.26' 
+SPTYPE= 'lipid-8'
+FILBAS= '/raidgyrus2/users/moonc/.lcmodel/basis-sets/3T/gamma_press_te30_123mhz_106.basis'
+FILRAW='/raidgyrus2/users/moonc/GYRUS2/OngoingResearch/CSIProcessing/data/FAZ-BMAT/A01_2022.10.12-10.24.51/svs_se_30_L4_0x0.26/A01.raw' 
+LPS= 8
+LCSV= 11
+LCOORD= 9
+FILCOO='/raidgyrus2/users/moonc/GYRUS2/OngoingResearch/CSIProcessing/data/FAZ-BMAT/A01_2022.10.12-10.24.51/svs_se_30_L4_0x0.26/A01.coord' 
+FILPS='/raidgyrus2/users/moonc/GYRUS2/OngoingResearch/CSIProcessing/data/FAZ-BMAT/A01_2022.10.12-10.24.51/svs_se_30_L4_0x0.26/A01.ps' 
+FILCSV='/raidgyrus2/users/moonc/GYRUS2/OngoingResearch/CSIProcessing/data/FAZ-BMAT/A01_2022.10.12-10.24.51/svs_se_30_L4_0x0.26/A01.csv' 
+ECHOT= 30.00
+DELTAT= 5.000e-04
+HZPPPM= 1.2324e+02
+NUNFIL= 1024
+PPMST= 8.0
+PPMEND= -1.0
+NEACH = 9
+$END

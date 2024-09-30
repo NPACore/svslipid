@@ -1,0 +1,2979 @@
+NIN-BOB
+[?1h=
+                                                          < M A T L A B (R) >
+                                                Copyright 1984-2018 The MathWorks, Inc.
+                                            R2018b Update 7 (9.5.0.1298439) 64-bit (glnxa64)
+                                                            January 22, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+/disk/mace2/archive/scan_data_archive/2019/NIN-BOB
+/disk/mace2/archive/scan_data_archive/2020/NIN-BOB
+/disk/mace2/archive/scan_data_archive/2021/NIN-BOB
+/disk/mace2/archive/scan_data_archive/2022/NIN-BOB
+...2022.09.07-07.55.44
+......LBS072
+...2022.09.08-09.05.21
+......LBS070
+[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090809181524709060401
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090809330585993365566
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.20
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202209080935582261866471
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.08-15.00.54
+......LBS007
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090815092971527126157
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090815193444606030759
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.08-16.10.46
+......LBS009
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090816173358419535358
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090816212868667436262
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090816245081729636296
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090816363825981041186
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.09-07.10.26
+......LBS073
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090907240583321145830
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090907340538829550422
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.09-09.59.48
+......LBS004
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090910091070967355016
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.20220909101917647759609
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.09-10.54.31
+......LBS001
+[?1h=.........svs_se_30_12x12x12_leg_0x0.10
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202209091107434475365108
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090911051548019864203
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202209091117181585769709
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.09-12.02.39
+......LBS008
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090912145480870574303
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022090912243972717378895
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.12-07.35.54
+......LBS010
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091207463948681883546
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091207562344223088187
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.12-08.24.01
+......LBS074
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091208320223626493353
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091208433225805097413
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.13-15.15.26
+......LBS002
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091315235111981470184
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091315323186918374776
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.14-07.28.19
+......LBS079
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091407350321197100487
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.19
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091407490566040706235
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.15-08.27.50
+......LBS075
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091508402374749230114
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091508523281490235293
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.15-11.37.01
+......LBS005
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091511485825400339890
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091511594488931644491
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.15-12.57.41
+......LBS077
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091513074670137249085
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091513171042975253699
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.16-07.34.45
+......LBS003
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091607430164662983831
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091607540133907189566
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.16-14.53.32
+......LBS011
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091615043886595394160
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091615131495399298761
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.16-15.28.05
+......LBS076
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091615364327752203927
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202209161541488796404829
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022091615533498862409430
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.21-08.32.54
+......LBS012
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.20220921084624297256353
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092108572639731860994
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.22-08.08.29
+......LBS085
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092208151844300165641
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092208251467304470242
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.22-08.48.58
+......LBS083
+[?1h=.........svs_se_30_12x12x12_leg_0x0.24
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092209260711535184938
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092209001586806974841
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092209034598200275745
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092209143611726180343
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.22-10.59.10
+......LBS084
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092211090175470294906
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092211215822832899547
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.22-15.14.17
+......LBS013
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092215211445510409378
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092215322938712214557
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.23-07.47.40
+......LBS014
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092307541334062204595
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092308033725877709196
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.23-12.08.33
+......LBS086
+[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092312174199628428253
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092312264249971832854
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.23-15.48.26
+......LBS015
+[?1h=.........svs_se_30_12x12x12_leg_0x0.10
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092315593773074456645
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.12
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092316033297276357549
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.20
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092316150647679062147
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.26-09.19.55
+......LBS081
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092609263321476604642
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092609363745853209243
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.09.26-10.05.56
+......LBS087
+[?1h=.........svs_se_30_12x12x12_leg_0x0.10
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092610233596537114745
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092610185257632513840
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022092610331316344219346
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.05-07.22.07
+......LBS082
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022100507594128560738980
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022100508083043120743581
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.10-14.37.55
+......LBS088
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101014444132195478973
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101014544110090883574
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101014572798083783609
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.10-16.26.41
+......LBS016
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101016325123584919617
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101016424093793624783
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.11-13.32.41
+......LBS093
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101113394176898155600
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101113485356032860201
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.11-14.16.03
+......LBS092
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202210111428085605664795
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101114363823268969396
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.11-15.18.05
+......LBS091
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101115240019587673990
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101115333527945278591
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.12-08.38.30
+......LBS089
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101208505615883483235
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101208595159011387836
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.13-07.50.56
+......LBS018
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101308013848410640172
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101308111416236044773
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.13-08.59.14
+......LBS090
+[?1h=.........svs_se_30_12x12x12_leg_0x0.10
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101309101355498249409
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101309060187579549367
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101309192384101454010
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.13-15.50.39
+......LBS017
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101315565730749583679
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101316055738396988280
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.17-09.44.03
+......LBS095
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101709542194119204641
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101710040947311109242
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.17-12.32.41
+......LBS094
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101712385599368638382
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101712472883328042983
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.18-13.38.53
+......LBS098
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101813454487745903950
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101813550045743808553
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.19-08.07.15
+......LBS019
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022101908153010568113197
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202210190824587638917798
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.21-07.33.25
+......LBS097
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022102107444768665272084
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022102107543962315376685
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2022.10.24-07.29.52
+......LBS096
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022102407372569674081330
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2022102407485186899685984
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=/disk/mace2/scan_data/NIN-BOB
+...2023.01.26-07.53.12
+......LBS100
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023012608035041178360728
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023012608141856660665329
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.01.31-14.13.29
+......LBS101
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202301311423324573406256
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023013114331436348010857
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.01.31-15.03.52
+......LBS070
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023013115105061951915454
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023013115191897219220055
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.01.31-15.27.54
+......LBS102
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023013115382593876224649
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023013115472960396329250
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.03-07.07.20
+......LBS022
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020307151971456633894
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020307241478804338511
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.03-07.59.45
+......LBS107
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020308062481054843105
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020308154271718047746
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.03-08.26.32
+......LBS108
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020308325977947752340
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020308415685741456941
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.06-07.43.47
+......LBS103
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020607501319859504597
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020607535986782805501
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020608030398946409574
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.06-09.12.16
+......LBS025
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020609214212887914168
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020609300754325018769
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.06-15.33.43
+......LBS105
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020615403860803665008
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202302061549261137569609
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202302061552533496470514
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.07-16.06.47
+......LBS104
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020716151638191284531
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020716195333241185433
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020716302528948689493
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.19
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020716312630699889524
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.08-07.21.50
+......LBS023
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020807320374326394168
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020807413319273298769
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.08-07.51.44
+......LBS021
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020808012457927003363
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023020808103581847807964
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.10-08.44.43
+......LBS020
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023021008513522009728713
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023021008593163155433314
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.10-12.34.47
+......LBS106
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202302101241344763737908
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023021012531023348843094
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.13-07.27.28
+......LBS109
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023021307342294951004592
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023021307425439462009193
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.02.14-13.17.37
+......LBS024
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023021413241199896246963
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023021413325094755451564
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.03.29-07.33.50
+......LBS002
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023032907403332172169946
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023032907493645692474547
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.03.29-08.31.35
+......LBS081
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023032908382118452479141
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023032908470523046283742
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.03.29-08.58.48
+......LBS074
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023032909053641519988336
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023032909154835119992937
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.03.29-15.50.19
+......LBS011
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023032916004194122797680
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023032916050186804998582
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023032916142147290003183
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.03.29-16.34.39
+......LBS015
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.30000023032820522159300003527
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.30000023032820522159300003529
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.30000023032820522159300003913
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.04.03-08.31.26
+......LBS087
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040308375926941204644
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040308415519823905551
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040308535154639110975
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.04.04-15.40.39
+......LBS008
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040415515169985668164
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040415533685259768196
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040416012424694772797
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.04.04-16.05.00
+......LBS009
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040416140441359877393
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202304041615588928577427
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040416243471711782025
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.04.05-07.27.41
+......LBS007
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040507371518820286716
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040507455396845291317
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.04.07-07.30.16
+......LBS073
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023040707362983202236790
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202304070745344281141391
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.04.18-16.16.52
+......LBS076
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023041816300130236753280
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023041816433545003857881
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.04.19-08.48.47
+......LBS083
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023041908582756459504592
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023041909073457964109193
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.04.19-11.09.00
+......LBS010
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023041911152710761927058
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023041911240029019831659
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.04.20-15.12.50
+......LBS085
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023042015211853662060323
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023042015315097433464383
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.03-08.17.49
+......LBS094
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023050308235839580723796
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023050308361985208228397
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.03-08.58.55
+......LBS090
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023050309075023029534125
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023050309162148916638726
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.03-11.37.01
+......LBS110
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023050311433212346448556
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202305031152086720853157
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.04-08.02.43
+......LBS026
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023050408095047310258904
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023050408185917890963509
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.05-08.11.17
+......LBS089
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023050508224215841085053
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023050508313522014489654
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.09-16.34.02
+......LBS098
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202305091641543639810685
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023050916514498630915286
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.10-09.45.41
+......LBS093
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051009515399890319930
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051010010418720324531
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.11-07.57.30
+......LBS115
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051108073627950030942
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051108183493383536121
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.11-09.04.28
+......LBS112
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051109140088978140715
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051109222389208345316
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.12-09.53.17
+......LBS092
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051210025930835959259
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202305121011171089163860
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.12-11.36.53
+......LBS028
+[?1h=.........svs_se_30_12x12x12_leg_0x0.15
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051211563544807073047
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202305121148518176968458
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.23
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051212042554242677648
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.15-08.36.34
+......LBS111
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051508430138822104790
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051508522448459309382
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.16-15.39.33
+......L:BS113
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051615470769688197272
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051615570060830501332
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=......LBS113
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.30000023051621042036400000393
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.30000023051621042036400000777
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.16-16.07.21
+......LBS027
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051616131285176505926
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051616212231189910527
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.18-08.00.24
+......LBS091
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051808065947377470668
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051808154679372175260
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.19-07.36.55
+......LBS116
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051907434713559905212
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023051907523510478709813
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.25-08.03.00
+......LBS114
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023052508090245140704693
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023052508191136652109334
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.25-09.01.46
+......LBS088
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202305250912402103513928
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023052509215780455418569
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.05.25-14.42.16
+......LBS016
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023052514482784491640141
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023052514590117268444742
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.06.12-08.20.13
+......LBS117
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023061208273746098205215
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023061208405852141909856
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.06.12-14.18.02
+......LBS029
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023061214281179529014452
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023061214371555681418512
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.07.28-11.16.24
+......LBS070
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023072811230696573277123
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202307281133474837582289
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.08.04-07.22.53
+......LBS022
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.20230804072939780454179
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023080407331624301155088
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023080407412116767559689
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.08.04-08.44.08
+......LBS101
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023080408511612786064283
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023080409005147611068884
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.08.08-15.37.12
+......LBS023
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023080815500721931456801
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.15
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023080816043361036960865
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.08.08-16.59.17
+......LBS020
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202308081705189205565459
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023080817132541873470060
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.08.09-07.25.40
+......LBS100
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023080907315486659579277
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023080907413487675883869
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.08.10-10.16.45
+......LBS021
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023081010235923196192209
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023081010354231678897379
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.08.14-09.05.12
+......LBS107
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023081409114423133804642
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023081409211013099309243
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.08.14-16.20.27
+......LBS104
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023081416281869730413865
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.15
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023081416432723917519316
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.08.31-10.32.34
+......LBS024
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023083110382955695445460
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023083110465215708250061
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.08.31-11.27.51
+......LBS108
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023083111342473623154655
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023083111432776378559296
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.01-07.45.31
+......LBS109
+[?1h=.........svs_se_30_12x12x12_leg_0x0.10
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023090107590164348965629
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.19
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023090108072566946170254
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.13-07.23.57
+......LBS118
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091307303268183352762
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309130739287281357363
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.13-10.38.23
+......LBS124
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091310500829775261959
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091310531563850061991
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091311012247059266592
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.13-12.40.15
+......LBS127
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091312462481468604592
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091312551682764809194
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.13-14.40.45
+......LBS123
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091314510372490213788
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091315001732709018389
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.14-11.59.19
+......LBS128
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091412051737995709482
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091412145968062314083
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.14-13.09.56
+......LBS135
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091413155962426519247
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091413242367488323848
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.14-14.41.25
+......LBS032
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091414470732849729012
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091414551776985833613
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.14-15.00.27
+......LBS134
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091415112959510838207
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091415194685673742808
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.14-16.11.10
+......LBS133
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091416211946369147402
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309141631111252952003
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.14-17.15.17
+......LBS130
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091417220744329457167
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309141730487169261768
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.15-07.46.54
+......LBS131
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091507530084205104592
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091508010157274009193
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.15-08.06.20
+......LBS036
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091508151482504813787
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309150823391624418388
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.15-09.56.49
+......LBS126
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091510025955586522984
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091510060220017823886
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091510142837415828487
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.15-10.59.04
+......LBS034
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309151107403814933081
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309151115513035137682
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091511181654758538587
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.15-12.01.31
+......LBS033
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091512074066218043183
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091512104431968544085
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309151218233134748686
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.15-12.53.18
+......LBS035
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091512591098448053280
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091513070042328257881
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.15-14.57.31
+......LBS137
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091515093242740162475
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091515182279809767076
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.18-08.20.18
+......LBS119
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091808263157683404642
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091808360297010809808
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.18-10.07.07
+......LBS139
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091810150693123214402
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091810232263587719003
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.18-11.26.07
+......LBS038
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091811355772773623597
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091811440357395828198
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.18-13.19.31
+......LBS138
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091813252464758032792
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091813333958528437393
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.18-16.29.28
+......LBS136
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091816423238818141987
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091816501167542046588
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.19-13.50.55
+......LBS132
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023091913570293027870381
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309191404484892874982
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.20-07.54.51
+......LBS140
+[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092008071656498380196
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092008172514095684827
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.20-11.58.19
+......LBS146
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092012041330550489991
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092012122080298194592
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.20-14.53.27
+......LBS042
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092014592441817299186
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092015073458993003787
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092015101550004303822
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.20-15.16.20
+......LBS040
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092015215496955308416
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092015294354321413017
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.20-15.56.31
+......LBS041
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309201604545079117611
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092016130191005722212
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.20-16.17.08
+......LBS141
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309201628493017026806
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092016364895952431407
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.21-12.06.47
+......LBS142
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092112132888836053
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092112250819347940113
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.21-15.58.32
+......LBS143
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092116054821650261945
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092116152248960366005
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.22-07.32.11
+......LBS039
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092207380853577970649
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309220748021897775250
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.22-08.37.33
+......LBS037
+[?1h=.........svs_se_30_12x12x12_leg_0x0.10
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092208494927826679879
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092208463655266979844
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092208580533607784480
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.22-12.26.51
+......LBS147
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092212390336551302345
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092212515229444407511
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.22-13.27.23
+......LBS14
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092213342714067412678
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092213444178644016738
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=......LBS144
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.30000023092219052621300000393
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.30000023092219052621300000777
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.25-07.30.48
+......LBS129
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092507442982979904642
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092507522983526409243
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.25-09.34.20
+......LBS149
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092509423283777913837
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092509513943832618438
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.25-09.56.01
+......LBS151
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092510054290612723032
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092510142771328127633
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.25-15.24.00
+......LBS148
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092515303433412032229
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.202309251540181669336289
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.25-15.51.27
+......LBS043
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092516001412879340885
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092516090792332444945
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.09.28-12.16.52
+......LBS044
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092812260635523272956
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023092812351667037877597
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.10.02-16.24.40
+......LBS145
+[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023100216324588644105356
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023100216412392625709950
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.07-13.22.21
+......LBS026
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023110713285483924677643
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023110713385052771982235
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.15-07.37.13
+......LBS153
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111507434943111205212
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111507521846653109813
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.15-11.12.47
+......LBS027
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111511192834045114407
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111511285821113319048
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.15-11.58.36
+......LBS152
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111512055415444623642
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111512141655015028808
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.15-15.44.55
+......LBS111
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111515554124003304594
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111516053841131408654
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.15-16.26.35
+......LBS050
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111516362048932613250
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111516451246953017310
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.16-08.29.16
+......LBS114
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111608375190250021954
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.20
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111608483270269228848
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.16-09.07.38
+......LBS156
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111609155418197033442
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111609243585925538034
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.16-12.45.15
+......LBS048
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111612515110620752954
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111613004298819757546
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.16-13.01.19
+......LBS110
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111613140853497862140
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111613243449302666732
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.16-13.34.58
+......LBS047
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111613424150001671326
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111613541395617075918
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.16-15.37.53
+......LBS049
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111615433610716980512
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111615511844468085104
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.16-16.05.51
+......LBS112
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111616113752879189698
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111616210858614894290
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.16-16.33.13
+......LBS113
+[?1h=.........svs_se_30_12x12x12_leg_0x0.10
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111616494228062399789
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111616454227995298884
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.18
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111616592965820104382
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.17-07.16.07
+......LBS155
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111707260414461209028
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_12x12x12_leg_0x0.9
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111707283683137009930
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023111707365070437714522
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.11.21-16.40.34
+......LBS051
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023112116511745508414801
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023112116592855590819402
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2023.12.08-07.54.04
+......LBS029
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023120808035890995067717
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2023120808131936638272309
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2024.01.12-07.45.02
+......LBS160
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2024011207515871387237243
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2024011208002263873041844
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2024.01.12-08.04.53
+......LBS158
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.20240112081431290046438
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.17
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2024011208232029556251079
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2024.01.12-08.28.08
+......LBS157
+[?1h=.........svs_se_30_12x12x12_leg_0x0.8
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.20240112083715878055673
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2024011208453533590160274
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=...2024.01.12-16.00.22
+......LBS159
+[?1h=.........svs_se_30_12x12x12_leg_0x0.7
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2024011216113061468764870
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=.........svs_se_30_15x15x15_lumbar_0x0.16
+[?1h=............UNKNOWN.1.3.12.2.1107.5.2.38.51021.2024011216215933002770037
+...............sAdjData.uiAdjWatSupMode	 = 	2
+...............sPrepPulses.ucWaterSat	 = 	4
+...............sSpecPara.dSpecWaterSupprBandwidth	 = 	1.55
+...............sDixonData.sMrDixonOptions.ucDixonWater	 = 	0x0
+...............sDixonData.sMrDixonEvaluationOptions.ucDixonEvaWaterFraction	 = 	0x0
+[?1h=[?1h=[?1l>
